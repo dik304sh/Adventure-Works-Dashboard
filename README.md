@@ -41,7 +41,7 @@ Adventure Works dataset provided during my **internship program**.
 ---
 
 ### Dashboard Preview
-![Adventure Works Dashboard](https://github.com/YourUsername/Adventure-Works-Dashboard/blob/main/AdventureWorksDashboard.png)
+https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sales%20Dashboard.png
 
 ---
 
