@@ -39,7 +39,7 @@ Performed using Tableau:
   - Total Customers  
   - Total Orders
 
- 📸 *Data:*  
+ 📸 *Dataset:*  
     https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/ADVENTURE%20WORKS%20(5).xlsx
 
 ---
