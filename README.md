@@ -37,7 +37,10 @@ Performed using Tableau:
   - Total Profit  
   - Profit Margin  
   - Total Customers  
-  - Total Orders  
+  - Total Orders
+
+ 📸 *Data:*  
+    https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/ADVENTURE%20WORKS%20(5).xlsx
 
 ---
 
