@@ -1,57 +1,92 @@
-# Adventure-Works-Dashboard
-nteractive Tableau dashboard analyzing Adventure Works sales using Excel and SQL — uncovering insights on profit, customers, and product trends.
+# 📊 Adventure Works Sales Analysis Dashboard
 
-# Adventure Works Sales Dashboard
-
-### Project Overview
-This project was developed during my **Data Analyst Internship**, where I designed an **interactive Tableau dashboard** to analyze the **Adventure Works** dataset.  
-The dashboard provides valuable insights into sales performance, profitability, customer distribution, and product trends across different regions and time periods.
+This project analyzes the sales, profit trends, customer behavior, and product performance for the Adventure Works company using an interactive dashboard.
 
 ---
 
-### Purpose
-The main objective of this project is to analyze Adventure Works sales data to:
-- Identify sales and profit trends across years and quarters  
-- Compare product and region-wise performance  
-- Track customer and order growth patterns  
-- Highlight key KPIs for business decision-making  
+## 1. Project Objective
+- Analyze overall sales and profit performance  
+- Identify top-selling products and categories  
+- Understand region-wise and country-wise performance  
+- Study monthly and quarterly sales trends  
+- Provide insights to help business decision-making  
 
 ---
 
-###  Tech Stack
-- **Excel** – Data cleaning and preparation  
-- **SQL** – Data extraction and KPI calculation  
-- **Tableau** – Dashboard creation and visualization  
+## 📂 2. Dataset Information
+- **Source:** Adventure Works Sample Dataset  
+- **Data Type:** Sales and Product Transaction Data  
+- **Includes:**  
+  - Product details  
+  - Customer information  
+  - Sales transactions  
+  - Dates  
+  - Country & region details  
 
 ---
 
-### Data Source
-Adventure Works dataset provided during my **internship program**.
+## 🧹 3. Data Preparation
+Performed using Tableau:
+
+- Removed duplicates  
+- Corrected data types  
+- Cleaned missing values  
+- Joined multiple tables  
+- Created calculated columns and measures:
+  - Total Sales  
+  - Total Profit  
+  - Profit Margin  
+  - Total Customers  
+  - Total Orders  
 
 ---
 
-### Features & Highlights
-- KPIs: Total Sales, Total Profit, Profit Margin, Total Customers, Total Orders  
-- Sales trend analysis by Month and Quarter  
-- Category, Subcategory, and Region-level performance insights  
-- Country-wise sales visualization with map  
-- Interactive filters for dynamic analysis  
-- Clean, easy-to-navigate dashboard layout  
+## 🧩 4. Data Modeling
+- Created a **Star Schema** model  
+- Built relationships between fact and dimension tables  
+- Defined KPIs with DAX (Power BI)
+
+📸 *Data Model:*  
+`/images/data_model.png`
 
 ---
 
-### Dashboard Preview
-https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sales%20Dashboard.png
+## 📊 5. Dashboard Features
+
+### 🔹 KPI Summary
+- **Total Sales:** 29.36M  
+- **Total Profit:** 12.08M  
+- **Profit Margin:** 41.15%  
+- **Total Customers:** 18,484  
+- **Total Orders:** 60,398  
+
+### 🔹 Visuals Included
+- Sales by Subcategory  
+- Yearly Sales Trend  
+- Quarter-wise Sales  
+- Region-wise Sales  
+- Country-wise Sales Map  
+- Sales by Category  
+- Month-wise Sales Trend  
+- Top 10 Products by Sales  
+
+### 🔹 Filters
+- Year  
+- Month  
+- Quarter  
+- Territory Group  
+- Metric Type (Sales, Profit, Orders)
+
+📸 *Dashboard Screenshot:*  
+`/images/dashboard_main.png`
 
 ---
 
-### Key Insights
-- **Q4** showed the highest sales with strong performance from **Australia** and **U.S.**  
-- **Road Bikes** contributed the most to total sales revenue.  
-- Profit margins remained steady across quarters with consistent growth trends.  
+## 💡 6. Key Insights
+- Road Bikes generated the highest sales (11.17M).  
+- Australia is the top-performing region (9.06M).  
+- Q4 saw the highest quarterly revenue.  
+- United States leads country-wise sales (9.39M).  
+- Bikes category contributes the majority of revenue (19.26M).
 
 ---
-
-
-**Diksha Badad**  
-[LinkedIn](https://www.linkedin.com/in/diksha-badad/) 
