@@ -78,7 +78,7 @@ https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sale
 - Metric Type (Sales, Profit, Orders)
 
 📸 *Dashboard Screenshot:*  
-`/images/dashboard_main.png`
+https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Data%20Modeling.jpeg
 
 ---
 
