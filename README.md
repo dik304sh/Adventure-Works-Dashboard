@@ -47,7 +47,7 @@ Performed using Tableau:
 - Defined KPIs with DAX (Power BI)
 
 📸 *Data Model:*  
-`/images/data_model.png`
+https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sales%20Dashboard.png
 
 ---
 
