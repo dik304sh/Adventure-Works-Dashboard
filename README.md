@@ -26,7 +26,7 @@ This project analyzes the sales, profit trends, customer behavior, and product p
 ---
 
 ## 🧹 3. Data Preparation
-Performed using Tableau:
+Performed using Power Query:
 
 - Removed duplicates  
 - Corrected data types  
