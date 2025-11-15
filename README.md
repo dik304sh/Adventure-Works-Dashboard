@@ -47,7 +47,7 @@ Performed using Tableau:
 - Defined KPIs with DAX (Power BI)
 
 📸 *Data Model:*  
-https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sales%20Dashboard.png
+https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Data%20Modeling.jpeg
 
 ---
 
@@ -78,7 +78,7 @@ https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sale
 - Metric Type (Sales, Profit, Orders)
 
 📸 *Dashboard Screenshot:*  
-https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Data%20Modeling.jpeg
+https://github.com/dik304sh/Adventure-Works-Dashboard/blob/main/Adventure%20Sales%20Dashboard.png
 
 ---
 
